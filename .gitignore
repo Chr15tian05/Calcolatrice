@@ -1,0 +1,7 @@
+# Ignora dipendenze e build
+node_modules/
+dist/
+out/
+
+# File sistema/mac
+.DS_Store
