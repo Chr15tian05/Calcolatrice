@@ -1,0 +1,28 @@
+{
+  "name": "electron-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^37.2.3",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "com.chris.calcolatrice",
+    "productName": "Calcolatrice Made By Chris",
+    "mac": {
+      "icon": "imgs/Fifth Row/Logo.icns",
+      "category": "public.app-category.utilities"
+    },
+    "win": {
+      "icon": "imgs/Fifth Row/Logo.ico"
+    }
+  }
+}
