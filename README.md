@@ -6,11 +6,8 @@ L’interfaccia imita lo stile di un'app nativa macOS ed è completamente person
 ## ✨ Funzionalità
 
 - Calcoli base: addizione, sottrazione, moltiplicazione e divisione
-- Pulsanti interattivi con immagini personalizzate
-- Supporto alla tastiera e interazione tramite clic
 - Comportamento nativo su macOS (chiudi/riduci con pulsanti personalizzati)
 - Interfaccia bloccata: non ridimensionabile o massimizzabile
-- Comportamento intelligente sugli operatori e risultato finale
 
 ## 📸 Anteprima
 
@@ -33,11 +30,8 @@ The interface mimics the look and feel of a native macOS app, fully customized w
 ## ✨ Features
 
 - Basic calculations: addition, subtraction, multiplication, and division
-- Interactive buttons with custom image icons
-- Keyboard support and clickable interaction
 - Native-like behavior on macOS (custom close/minimize buttons)
 - Fixed interface: non-resizable and non-maximizable
-- Smart operator logic and result handling
 
 ## 📸 Preview
 
